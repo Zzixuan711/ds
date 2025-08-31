@@ -1,0 +1,8 @@
+1,7
+Choose the following operation:
+1 check medicine stock
+2 add new medicine
+3 increase stock
+4 retrieve medicine
+
+Enter your choice(1-4):
